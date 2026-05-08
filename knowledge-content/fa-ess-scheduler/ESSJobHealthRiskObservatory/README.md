@@ -1,4 +1,4 @@
-# ESS Job Health & Risk Observatory
+# Fusion ESS Job Health & Risk Observatory
 
 ## Overview
 This solution provides AI-driven monitoring and risk analysis for Fusion ESS jobs using OCI Log Analytics.
